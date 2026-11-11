@@ -45,7 +45,7 @@ const clap_plugin_descriptor_t kDescriptor = {
     kPluginId,
     "TB Digital Multi Echo",
     "TB",
-    "https://github.com/tonybuzzcock/TB-Multi-Echo-2026-Mac",
+    "https://github.com/tonybuzzcock/TB-Multi-Echo-2026-MAC",
     "",
     "",
     "1.0.0",
